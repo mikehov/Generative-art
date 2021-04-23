@@ -3,15 +3,15 @@
 # Procesverslag
 
 ## Over
-* **Naam:** `voornaam + achternaam`
+* **Naam:** `Mike Hovenier`
 * **Klas:** `vid-1/vid-2`
 * **Minor:** `Visual Interface Design`
-* **Favoriete dier:** `Zeeotters zijn te gek!`
-* **Startniveau:** `blauw/rood/zwart`
+* **Favoriete dier:** `Geitjes en schaapjes zijn wel mijn ding.`
+* **Startniveau:** `Rood (iets verder dan beginner)`
 
 ## Concept
 
-`Beschrijf in het algemeen je concept van je project.`
+`Mijn nieuwe hobby in de covid-19 is online en fysiek schaken, klinkt heel suf, maar schaken is zo veel interessanter dan gedacht. Het is een tactisch oud bordspel waarbij je op creatieve manieren je tegenstander kunt schaakmat zetten. Ik wil daarom een generative-art schaakbord maken, hierbij worden langzaamrand de lijnen van de zetten zichtbaar. Dit in getoont in een fantasie stijl. Buiten de schaakbord elementen om, wil ik de achtergrond gebruiken om andere generatieve elementen toe te voegen.`
 
 ## Features
 
