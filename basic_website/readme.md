@@ -78,9 +78,18 @@ De lijnen komen nu wel allemaal op het schaakbord terecht, maar heel logisch zij
 
 ## Bronnenlijst
 
-`Code sources:`
-* `Gradient: https://editor.p5js.org/REAS/sketches/S1TNUPzim`
-* `Youtube playlist: https://www.youtube.com/watch?v=HerCR8bw_GE&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=1`
-* `Chess board pattern: https://www.youtube.com/watch?v=W9yxcH-jbao&t=448s`
+**`**General sources:**`**
+
+* `FreeCodeCamp: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/`
+
+* `Mr. Jeff Astor. (2018, 27 november). Make a Checkerboard in P5 js [Video]. YouTube. https://www.youtube.com/watch?v=W9yxcH-jbao&t=448s`
+
+* `p5.js. (z.d.). p5.js Web Editor. P5.Js Web Editor. Geraadpleegd op 13 mei 2021, van https://editor.p5js.org/REAS/sketches/S1TNUPzim`
+
+* `The Coding Train. (2019, 12 april). Code! Programming with p5.js for Beginners Trailer [Video]. YouTube. https://www.youtube.com/watch?v=HerCR8bw_GE&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=1`
+
+**`**p5.js code sources:**`**
+
 * `Background color changes by mouse: https://editor.p5js.org/sjnha/sketches/BJuTw4BHW`
 * `FrameCount: https://editor.p5js.org/denaplesk2/sketches/S1OAhXA-M`
+* `Gradient: https://editor.p5js.org/REAS/sketches/S1TNUPzim`
