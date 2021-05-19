@@ -11,6 +11,8 @@ Om realistisch te blijven, is schaken natuurlijk wel erg complex en zijn er best
 
 ![Tekening oude concept](./images/schaakbord.PNG)
 
+![Concept afbeelding met lijnen](../images/schaakbordlijnen.PNG)
+
 ## Features
 
 In het schaakbord zitten er verschillende soorten features, met deze feature kun je interacteren met het schaakbord.
