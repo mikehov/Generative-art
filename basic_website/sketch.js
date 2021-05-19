@@ -17,19 +17,19 @@ let colorOne, colorTwo;
 
 function preload() {
   // Uploaded Images
-  wPawn = loadImage("./images/White-Pawn.svg");
-  wRook = loadImage("./images/White-Rook.svg");
-  wKnight = loadImage("./images/White-Knight.svg");
-  wBishop = loadImage("./images/White-Bishop.svg");
-  wKing = loadImage("./images/White-King.svg");
-  wQueen = loadImage("./images/White-Queen.svg");
+  wPawn = loadImage("./svg/White-Pawn.svg");
+  wRook = loadImage("./svg/White-Rook.svg");
+  wKnight = loadImage("./svg/White-Knight.svg");
+  wBishop = loadImage("./svg/White-Bishop.svg");
+  wKing = loadImage("./svg/White-King.svg");
+  wQueen = loadImage("./svg/White-Queen.svg");
 
-  bPawn = loadImage("./images/Black-Pawn.svg");
-  bRook = loadImage("./images/Black-Rook.svg");
-  bKnight = loadImage("./images/Black-Knight.svg");
-  bBishop = loadImage("./images/Black-Bishop.svg");
-  bKing = loadImage("./images/Black-King.svg");
-  bQueen = loadImage("./images/Black-Queen.svg");
+  bPawn = loadImage("./svg/Black-Pawn.svg");
+  bRook = loadImage("./svg/Black-Rook.svg");
+  bKnight = loadImage("./svg/Black-Knight.svg");
+  bBishop = loadImage("./svg/Black-Bishop.svg");
+  bKing = loadImage("./svg/Black-King.svg");
+  bQueen = loadImage("./svg/Black-Queen.svg");
 }
 
 // Maximum amount of moves for the current match
@@ -39,8 +39,8 @@ function setup() {
   createCanvas(windowWidth, windowHeight);
 
   // Gradient background
-  colorOne = color(30, 30, 30);
-  colorTwo = color(10, 10, 10);
+  colorOne = color(30, 30, 30, 255);
+  colorTwo = color(10, 10, 10, 255);
 
   for (let y = 0; y < height; y++) {
     n = map(y, 0, height, 0, 1);
@@ -48,6 +48,8 @@ function setup() {
     stroke(newColor);
     line(0, y, width, y);
   }
+
+  console.log(colorOne)
 
   // Randomizes the amount of moves that can be played in the current match
   maximumMovesMatch = int(random(5, 100));
@@ -73,6 +75,7 @@ let lineArray = [];
 
 
 function draw() {
+  
   // Control settings text
   textAlign(LEFT, TOP);
   noStroke();
@@ -283,8 +286,8 @@ function keyPressed() {
     lineArray = [];
   
     // Add background back to remove the "checkmate" text
-    colorOne = color(30, 30, 30);
-    colorTwo = color(10, 10, 10);
+    colorOne = color(30, 30, 30, 255);
+    colorTwo = color(10, 10, 10, 255);
 
     for (let y = 0; y < height; y++) {
       n = map(y, 0, height, 0, 1);
