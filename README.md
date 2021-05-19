@@ -11,7 +11,7 @@ Om realistisch te blijven, is schaken natuurlijk wel erg complex en zijn er best
 
 ![Tekening oude concept](./images/schaakbord.PNG)
 
-![Concept afbeelding met lijnen](../images/schaakbordlijnen.PNG)
+![Concept afbeelding met lijnen](./images/schaakbordlijnen.PNG)
 
 ## Features
 
