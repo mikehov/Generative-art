@@ -9,7 +9,7 @@ Mijn nieuwe hobby in de covid-19 is online en fysiek schaken, klinkt heel suf, m
 
 Om realistisch te blijven, is schaken natuurlijk wel erg complex en zijn er best veel regels. Om dit allemaal volgens de regels te maken zal heel lastig zijn en heel veel tijd kosten. Met die reden zal ik daarom niet het hele schaaksysteem na kunnen maken, maar wel zo ver mogelijk binnen de regels proberen te vallen. Schaaksetten zullen soms dus helemaal niet kunnen of helemaal niet goed zijn, maar het gaat om het idee dat de kunst van schaken er zo uit kan zien.
 
-![Tekening oude concept](./images/schaakbord.png)
+![Tekening oude concept](./images/schaakbord.PNG)
 
 ## Features
 

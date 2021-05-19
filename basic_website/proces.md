@@ -13,7 +13,9 @@ Mijn nieuwe hobby in de covid-19 is online en fysiek schaken, klinkt heel suf, m
 
 Om realistisch te blijven, is schaken natuurlijk wel erg complex en zijn er best veel regels. Om dit allemaal volgens de regels te maken zal heel lastig zijn en heel veel tijd kosten. Met die reden zal ik daarom niet het hele schaaksysteem na kunnen maken, maar wel zo ver mogelijk binnen de regels proberen te vallen. Schaaksetten zullen soms dus helemaal niet kunnen of helemaal niet goed zijn, maar het gaat om het idee dat de kunst van schaken er zo uit kan zien.
 
-![Concept afbeelding](../images/schaakbord.png)
+![Concept afbeelding](../images/schaakbord.PNG)
+
+![Concept afbeelding met lijnen](../images/schaakbordlijnen.PNG)
 
 
 _Link to project: https://editor.p5js.org/mikehov/sketches/4Rv33lRH51_
@@ -39,8 +41,8 @@ Het proces van het concept is bijgehouden week tot week. Elke week zijn er veran
 
 In de eerste week ben ik vooral bezig geweest met mijn concept, wat lijkt mij tof om te maken en wat zou ik graag willen maken? Heb wat research gedaan naar generatieve kunst kijken wat er eventueel mogelijk is en wat misschien leuk is om te maken. Na een paar voorbeelden bedacht ik mijn eerste concept. In het eerste instantie bedacht ik een concept over een omtrek van een brein die willekeurige lijnen tekent en vervolgens met andere lijnen zich vast maakt aan de canvas. Met als idee dat ik snel dingen over denk en dat ik mezelf vast zet aan mijn normen en waardes. Na het voorlichten van mijn concept, was dit achteraf een beetje een apart idee dat moeilijk tot mezelf betrekken was.
 
-![Tekening oude concept](../images/concept.png)
-![Tekening oude concept](../images/conceptt.png)
+![Tekening oude concept](../images/concept.PNG)
+![Tekening oude concept](../images/conceptt.PNG)
 
 ### Week-2
 **_19 april 2021 / 25 april 2021_**
